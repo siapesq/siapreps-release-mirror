@@ -1,3 +1,8 @@
+<div align="center">  
+  <img src="https://github.com/user-attachments/assets/703bf565-46e2-418c-8ed6-6f7ba9da7d74" alt="logo" style="width:100px"></img>
+</div>
+
+
 # 📁 mirror
 
 > ⚠️ **Atenção:** os arquivos estão disponíveis apenas na [aba Releases](../../releases).  
